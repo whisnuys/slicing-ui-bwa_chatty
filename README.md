@@ -2,5 +2,5 @@
 
 Learn to slicing UI design bwa-chatty from pixel.buildwithangga.com - Flutter
 
-#Design
+# Link Design
 https://pixel.buildwithangga.com/details/chatty
